@@ -1,9 +1,9 @@
 [package]
 name = "geolocator"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "MIT"
-author = "github.com/no-one-important/"
+authors = ["github.com/no-one-important/"]
 description = "A tool to geolocate IP addresses"
 homepage = "https://github.com/No-one-important/geolocator"
 repository = "https://github.com/No-one-important/geolocator"
