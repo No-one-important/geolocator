@@ -2,7 +2,9 @@
 name = "geolocator"
 version = "0.1.0"
 edition = "2021"
-
+lisence="MIT"
+author = "github.com/no-one-important/"
+description = "A tool to geolocate IP addresses"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
