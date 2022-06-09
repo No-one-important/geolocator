@@ -1,7 +1,6 @@
 use ipgeolocate::{Locator, Service};
 use tokio;
 
-// Prints the city where 1.1.1.1 is.
 #[tokio::main]
 async fn main() {
     let service = Service::IpApi;
